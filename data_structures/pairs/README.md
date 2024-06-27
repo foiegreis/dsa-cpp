@@ -29,9 +29,9 @@ std::cout << "Second element: " << myPair.second << std::endl;
     - **Limited to Two Elements**: Pairs are limited to holding exactly two elements and do not provide flexibility for more elements.
 
 #### When to Use Pairs
-    - **Related Data**: When you need to store and manipulate two related values together.
-    - **Return Multiple Values**: Useful for functions that need to return two values.
-    - **Simple Key-Value Pairs**: When a more complex structure like std::map is unnecessary.
+- **Related Data**: When you need to store and manipulate two related values together.
+- **Return Multiple Values**: Useful for functions that need to return two values.
+- **Simple Key-Value Pairs**: When a more complex structure like std::map is unnecessary.
 
 #### Time and Space Complexity
 - **Time Complexity*:
