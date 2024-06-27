@@ -1,0 +1,3 @@
+/home/foiegreis/Documents/GitHub/dsa-cpp/build/CMakeFiles/dsa-cpp.dir
+/home/foiegreis/Documents/GitHub/dsa-cpp/build/CMakeFiles/edit_cache.dir
+/home/foiegreis/Documents/GitHub/dsa-cpp/build/CMakeFiles/rebuild_cache.dir
