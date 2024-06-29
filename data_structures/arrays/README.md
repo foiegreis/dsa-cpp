@@ -19,7 +19,7 @@ void func(const int arr[], const int size){}
 - **Multidimensional Arrays**: C++ supports multidimensional arrays
 
 
-#### Pros and Cons of Arrays
+#### Pros and Cons 
 
 - **Pros**:
 

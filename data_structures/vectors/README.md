@@ -36,7 +36,7 @@ std::cout << std::endl;
 
 
 
-#### Pros and Cons of Vectors
+#### Pros and Cons 
 
 - **Pros**:
 

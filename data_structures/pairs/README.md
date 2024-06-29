@@ -19,7 +19,7 @@ std::cout << "Second element: " << myPair.second << std::endl;
 - **Initialization**: Pairs can be initialized using constructors, std::make_pair, or aggregate initialization.
 - **Accessing Elements**: Elements in a pair can be accessed using .first and .second member variables.
 
-#### Pros and Cons of Pairs
+#### Pros and Cons 
 - **Pros**:
     - **Simple and Lightweight**: Pairs are straightforward and lightweight containers for holding two related values.
     - **Convenient**: Provides a convenient way to group two objects together without creating a custom struct or class.

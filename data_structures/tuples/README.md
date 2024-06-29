@@ -22,7 +22,7 @@ std::cout << "Third element: " << std::get<2>(myTuple) << std::endl;
 - **Initialization**: Tuples can be initialized using constructors or std::make_tuple.
 - **Accessing Elements**: Elements in a tuple can be accessed using std::get<index>(tuple).
 
-#### Pros and Cons of Tuples
+#### Pros and Cons 
 - **Pros**:
 
     - **Flexible Size**: Tuples can hold a variable number of elements, providing flexibility over pairs.
