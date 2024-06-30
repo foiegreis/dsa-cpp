@@ -17,6 +17,20 @@ Implementation of Data structures and algorithms in C++
 - queues
 - deques
 - stacks
+- linked lists
+    - singly linked lists
+    - doubly linked lists
+    - circular linked lists
+    - algorithms
+        - reverse
+        - detect cycle
+        - find middle
+        - is palindrome
+        - merge sorted lists
+        - remove duplicates
+        - remove nth node from end
+        - rotate right by k places
+        - flatten multilevel doubly linked list
 - trees 
     - general trees
     - binary trees
