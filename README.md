@@ -1,2 +1,75 @@
 # dsa-cpp
 Implementation of Data structures and algorithms in C++
+
+
+#### Data Structures
+- smart pointers
+- strings
+- arrays
+- vectors
+- pairs
+- tuples
+- sets
+- bitsets
+- multisets
+- maps
+- multimaps
+- queues
+- deques
+- stacks
+- trees 
+    - general trees
+    - binary trees
+    - binary search trees (BST)
+    - avl trees
+    - heaps
+    - tries
+    - kd tree
+    - minimum spanning tree
+- graphs
+    - undirected graphs
+    - directed graphs
+    - weighted graphs
+    - octo graphs
+
+#### Algorithms
+- algorithm patterns
+    - two pointers
+    - fast and slow pointers
+    - merge intervals
+- sorting algorithms
+    - selection sort
+    - insertion sort
+    - bubble sort
+    - bucket sort
+    - merge sort
+    - quick sort
+    - heap sort
+    - topological sort
+- search algorithms
+    - linear search
+    - binary search
+    - bfs
+    - dfs
+    - dijkstra
+    - A*
+    - Bellman Ford search 
+    - Floyd Marshall search
+    - Kruskal search
+    - Prim's algorithm
+- greedy algorithms
+    - activity selection problem
+    - coin change problem
+    - fractional knapsack problem
+- divide and conquer algorithms
+    - number factor problem
+    - house robber problem
+    - zero one knapsack problem
+    - longest common sequence problem
+    - longes palindrome subsequence problem
+- dynamic programming
+    - top down with memoization
+    - buttom up with tabulation
+    - number factor problem
+    - house robber problem
+    - backtracking
