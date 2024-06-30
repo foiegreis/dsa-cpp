@@ -33,11 +33,11 @@ Implementation of Data structures and algorithms in C++
     - octo graphs
 
 #### Algorithms
-- algorithm patterns
+- Algorithm patterns
     - two pointers
     - fast and slow pointers
     - merge intervals
-- sorting algorithms
+- Sorting algorithms
     - selection sort
     - insertion sort
     - bubble sort
@@ -46,7 +46,7 @@ Implementation of Data structures and algorithms in C++
     - quick sort
     - heap sort
     - topological sort
-- search algorithms
+- Search algorithms
     - linear search
     - binary search
     - bfs
@@ -57,17 +57,17 @@ Implementation of Data structures and algorithms in C++
     - Floyd Marshall search
     - Kruskal search
     - Prim's algorithm
-- greedy algorithms
+- Greedy algorithms
     - activity selection problem
     - coin change problem
     - fractional knapsack problem
-- divide and conquer algorithms
+- Divide and conquer algorithms
     - number factor problem
     - house robber problem
     - zero one knapsack problem
     - longest common sequence problem
     - longes palindrome subsequence problem
-- dynamic programming
+- Dynamic programming
     - top down with memoization
     - buttom up with tabulation
     - number factor problem
